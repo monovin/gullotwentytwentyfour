@@ -3,54 +3,59 @@
 		"color": {
 			"palette": [
 				{
-					"color": "#107701",
+					"color": "oklch(49.51% 0.165 141.72)",
 					"name": "Gullö Grön 1",
 					"slug": "custom-gull-gr-n-1"
 				},
 				{
-					"color": "oklch(98.83% 0.005 160)",
-					"name": "Teal bright",
-					"slug": "custom-teal-bright"
+					"color": "#e2ffdd",
+					"name": "grön 50",
+					"slug": "custom-gron-50"
 				},
 				{
-					"color": "oklch(96.29% 0.017 160)",
-					"name": "Teal 100",
-					"slug": "custom-teal-100"
+					"color": "#96f08b",
+					"name": "grön 100",
+					"slug": "custom-gron-100"
 				},
 				{
-					"color": "oklch(91.21% 0.042 160)",
-					"name": "Teal 200",
-					"slug": "custom-teal-200"
+					"color": "#77d16d",
+					"name": "grön 200",
+					"slug": "custom-gron-200"
 				},
 				{
-					"color": "oklch(84.38% 0.078 160)",
-					"name": "Teal 300",
-					"slug": "custom-teal-300"
+					"color": "#59b24f",
+					"name": "grön 300",
+					"slug": "custom-gron-300"
 				},
 				{
-					"color": "oklch(77.54% 0.114 160)",
-					"name": "Teal 400",
-					"slug": "custom-teal-400"
+					"color": "#3a9430",
+					"name": "grön 400",
+					"slug": "custom-gron-400"
 				},
 				{
-					"color": "oklch(70.51% 0.152 160)",
-					"name": "Teal 500",
-					"slug": "custom-teal-500"
+					"color": "#107701",
+					"name": "grön 500",
+					"slug": "custom-gron-500"
 				},
 				{
-					"color": "oklch(59.38% 0.136 160)",
-					"name": "Teal 600",
-					"slug": "custom-teal-600"
+					"color": "#0b6400",
+					"name": "grön 600",
+					"slug": "custom-gron-600"
 				},
 				{
-					"color": "oklch(50.78% 0.116 160)",
-					"name": "Teal 700",
-					"slug": "custom-teal-700"
+					"color": "#064c00",
+					"name": "grön 700",
+					"slug": "custom-gron-700"
 				},
 				{
-					"color": "oklch(29.1% 0.066 160)",
-					"name": "Teal 900",
-					"slug": "custom-teal-900"
+					"color": "#033400",
+					"name": "grön 800",
+					"slug": "custom-gron-800"
+				},
+				{
+					"color": "#012000",
+					"name": "gron 900",
+					"slug": "custom-gron-900"
 				}
 			]
 		},
