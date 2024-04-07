@@ -1,0 +1,227 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#107701",
+					"name": "Gullö Grön 1",
+					"slug": "custom-gull-gr-n-1"
+				},
+				{
+					"color": "oklch(98.83% 0.005 160)",
+					"name": "Teal bright",
+					"slug": "custom-teal-bright"
+				},
+				{
+					"color": "oklch(96.29% 0.017 160)",
+					"name": "Teal 100",
+					"slug": "custom-teal-100"
+				},
+				{
+					"color": "oklch(91.21% 0.042 160)",
+					"name": "Teal 200",
+					"slug": "custom-teal-200"
+				},
+				{
+					"color": "oklch(84.38% 0.078 160)",
+					"name": "Teal 300",
+					"slug": "custom-teal-300"
+				},
+				{
+					"color": "oklch(77.54% 0.114 160)",
+					"name": "Teal 400",
+					"slug": "custom-teal-400"
+				},
+				{
+					"color": "oklch(70.51% 0.152 160)",
+					"name": "Teal 500",
+					"slug": "custom-teal-500"
+				},
+				{
+					"color": "oklch(59.38% 0.136 160)",
+					"name": "Teal 600",
+					"slug": "custom-teal-600"
+				},
+				{
+					"color": "oklch(50.78% 0.116 160)",
+					"name": "Teal 700",
+					"slug": "custom-teal-700"
+				},
+				{
+					"color": "oklch(29.1% 0.066 160)",
+					"name": "Teal 900",
+					"slug": "custom-teal-900"
+				}
+			]
+		},
+		"typography": {
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"IBM Plex Serif\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "https://gullo.mistaken.live/wp-content/uploads/fonts/jizDREVNn1dOx-zrZ2X3pZvkThUd0TY7ikbI.woff2"
+						},
+						{
+							"fontFamily": "\"IBM Plex Serif\"",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": "https://gullo.mistaken.live/wp-content/uploads/fonts/jizAREVNn1dOx-zrZ2X3pZvkTi3s-BI2oVrBicOg.woff2"
+						},
+						{
+							"fontFamily": "\"IBM Plex Serif\"",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "https://gullo.mistaken.live/wp-content/uploads/fonts/jizAREVNn1dOx-zrZ2X3pZvkTi2k_hI2oVrBicOg.woff2"
+						},
+						{
+							"fontFamily": "\"IBM Plex Serif\"",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": "https://gullo.mistaken.live/wp-content/uploads/fonts/jizAREVNn1dOx-zrZ2X3pZvkTi3A_xI2oVrBicOg.woff2"
+						},
+						{
+							"fontFamily": "\"IBM Plex Serif\"",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": "https://gullo.mistaken.live/wp-content/uploads/fonts/jizBREVNn1dOx-zrZ2X3pZvkTiUa2zcZj1bIkNo.woff2"
+						},
+						{
+							"fontFamily": "\"IBM Plex Serif\"",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": "https://gullo.mistaken.live/wp-content/uploads/fonts/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywq1vjjNOg_oc.woff2"
+						},
+						{
+							"fontFamily": "\"IBM Plex Serif\"",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": "https://gullo.mistaken.live/wp-content/uploads/fonts/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3q1vjjNOg_oc.woff2"
+						}
+					],
+					"fontFamily": "\"IBM Plex Serif\", serif",
+					"name": "IBM Plex Serif",
+					"slug": "ibm-plex-serif"
+				}
+			],
+			"fontSizes": [
+				{
+					"fluid": false,
+					"name": "Small",
+					"size": "0.9rem",
+					"slug": "small"
+				},
+				{
+					"fluid": {
+						"max": "1.30rem",
+						"min": "1.05rem"
+					},
+					"name": "Medium",
+					"size": "1.05rem",
+					"slug": "medium"
+				},
+				{
+					"fluid": {
+						"max": "1.85rem",
+						"min": "1.39rem"
+					},
+					"name": "Large",
+					"size": "1.85rem",
+					"slug": "large"
+				},
+				{
+					"fluid": {
+						"max": "2.5rem",
+						"min": "1.85rem"
+					},
+					"name": "Extra Large",
+					"size": "2.5rem",
+					"slug": "x-large"
+				},
+				{
+					"fluid": {
+						"max": "3.27rem",
+						"min": "2.5rem"
+					},
+					"name": "Extra Extra Large",
+					"size": "3.27rem",
+					"slug": "xx-large"
+				}
+			],
+			"writingMode": true
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/button": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)",
+					"fontStyle": "normal",
+					"fontWeight": "500"
+				}
+			},
+			"core/navigation": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)"
+				}
+			},
+			"core/paragraph": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--source-serif-4)",
+					"fontSize": "var(--wp--preset--font-size--medium)"
+				}
+			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--custom-teal-100)",
+			"text": "var(--wp--preset--color--custom-gull-gr-n-1)"
+		},
+		"css": ".wave-top{\n  --mask:\n    radial-gradient(1.22rem at 50% 1.7rem,#000 99%,#0000 101%) calc(50% - 2rem) 0/4rem 100%,\n    radial-gradient(1.22rem at 50% -0.7rem,#0000 99%,#000 101%) 50% 1rem/4rem 100% repeat-x;\n  -webkit-mask: var(--mask);\n          mask: var(--mask);\n}\n\n/*\ngenerated here:\nhttps://css-generators.com/wavy-shapes/\n*/",
+		"elements": {
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--custom-gull-gr-n-1)",
+					"text": "var(--wp--preset--color--custom-teal-100)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--source-serif-4)",
+					"fontSize": "var(--wp--preset--font-size--medium)"
+				}
+			},
+			"caption": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--source-serif-4)"
+				}
+			},
+			"heading": {
+				"color": {
+					"text": "var(--wp--preset--color--custom-gull-gr-n-1)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--ibm-plex-serif)",
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			},
+			"link": {
+				"color": {
+					"text": "var(--wp--preset--color--custom-gull-gr-n-1)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--source-serif-4)"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--ibm-plex-serif)",
+			"fontSize": "var(--wp--preset--font-size--medium)",
+			"fontStyle": "normal",
+			"fontWeight": "400"
+		}
+	},
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json"
+}
