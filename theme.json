@@ -8,54 +8,59 @@
 					"slug": "custom-gull-gr-n-1"
 				},
 				{
-					"color": "#e2ffdd",
-					"name": "grön 50",
-					"slug": "custom-gron-50"
+					"color": "F2FCF0",
+					"name": "grön 0",
+					"slug": "custom-gron-0"
 				},
 				{
-					"color": "#96f08b",
+					"color": "E1FDDD",
 					"name": "grön 100",
 					"slug": "custom-gron-100"
 				},
 				{
-					"color": "#77d16d",
+					"color": "CCF8C5",
 					"name": "grön 200",
 					"slug": "custom-gron-200"
 				},
 				{
-					"color": "#59b24f",
+					"color": "#B3EFAA",
 					"name": "grön 300",
 					"slug": "custom-gron-300"
 				},
 				{
-					"color": "#3a9430",
+					"color": "#97E08C",
 					"name": "grön 400",
 					"slug": "custom-gron-400"
 				},
 				{
-					"color": "#107701",
+					"color": "#78CB6C",
 					"name": "grön 500",
 					"slug": "custom-gron-500"
 				},
 				{
-					"color": "#0b6400",
+					"color": "#58B24B",
 					"name": "grön 600",
 					"slug": "custom-gron-600"
 				},
 				{
-					"color": "#064c00",
+					"color": "#369628",
 					"name": "grön 700",
 					"slug": "custom-gron-700"
 				},
 				{
-					"color": "#033400",
+					"color": "#107701",
 					"name": "grön 800",
 					"slug": "custom-gron-800"
 				},
 				{
-					"color": "#012000",
+					"color": "#0A4B01",
 					"name": "gron 900",
 					"slug": "custom-gron-900"
+				},
+				{
+					"color": "#062402",
+					"name": "gron 1000",
+					"slug": "custom-gron-1000"
 				}
 			]
 		},
