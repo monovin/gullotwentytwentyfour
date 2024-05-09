@@ -15,3 +15,57 @@ Text Domain: gullotwentytwentyfour
 Tags: blog, news, portfolio, one-column, wide-blocks, accessibility-ready, block-patterns, block-styles, custom-colors, custom-logo, custom-menu, editor-style, featured-images, full-site-editing, rtl-language-support, sticky-post, style-variations, threaded-comments, translation-ready, 
 */
 
+.wave-top{
+  --mask:
+    radial-gradient(1.31rem at 50% 1.85rem,#000 99%,#0000 101%) calc(50% - 2rem) 0/4rem 100%,
+    radial-gradient(1.31rem at 50% -0.85rem,#0000 99%,#000 101%) 50% 1rem/4rem 100% repeat-x;
+  -webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+
+
+.wave-bottom {
+ --mask:
+    radial-gradient(1.31rem at 50% calc(100% - 1.85rem),#000 99%,#0000 101%) calc(50% - 2rem) 0/4rem 100%,
+    radial-gradient(1.31rem at 50% calc(100% + 0.85rem),#0000 99%,#000 101%) 50% calc(100% - 1rem)/4rem 100% repeat-x;
+  -webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+
+.wave-line {
+  --mask:
+    radial-gradient(calc(1.31rem + 1px) at 50% calc(100% + 0.85rem),#0000 calc(99% - 2px),#000 calc(101% - 2px) 99%,#0000 101%) calc(50% - 2rem) calc(50% - 0.5rem - 1px + .5px)/4rem calc(1rem + 2px)  repeat-x,
+    radial-gradient(calc(1.31rem + 1px) at 50% -0.85rem,#0000 calc(99% - 2px),#000 calc(101% - 2px) 99%,#0000 101%) 50% calc(50% + 0.5rem + 1px)/4rem calc(1rem + 2px)  repeat-x;
+  -webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+
+
+
+/*
+generated here:
+https://css-generators.com/wavy-shapes/
+*/
+
+
+.wp-block-heading {
+  text-wrap: balance;
+}
+h1,h2,h3,h4,h5,h6 {
+  text-wrap: balance;
+}
+/* https://developer.chrome.com/docs/css-ui/css-text-wrap-balance
+*/
+
+
+
+.outline-green{
+border-radius: var(--wp--preset--spacing--20);
+outline: solid;
+outline-color: var(--wp--preset--color--custom-gron-600);
+outline-width: 2px;
+}
+
+.baddar-textblock {
+    min-height: calc(1.55* var(--wp--preset--font-size--medium));
+}
